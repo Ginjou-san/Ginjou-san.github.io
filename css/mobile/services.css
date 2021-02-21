@@ -5,7 +5,8 @@
 
 .services_text {
   margin: auto;
-  width: 320px; }
+  width: 320px;
+  padding-bottom: 30px; }
 
 .services_our__serveces {
   margin-top: 50px;
@@ -94,3 +95,6 @@
 
 .services_quote__text p {
   margin-top: 20px; }
+
+.images_quote {
+  padding-left: 260px; }

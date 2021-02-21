@@ -1,12 +1,12 @@
 /*laptop*/
 .services {
-  height: 565px;
   width: 100%;
   background-color: #ffff; }
 
 .services_text {
   margin: auto;
-  width: 640px; }
+  width: 640px;
+  padding-bottom: 40px; }
 
 .services_our__serveces {
   margin-top: 30px;
@@ -95,3 +95,6 @@
 
 .services_quote__text p {
   margin-top: 20px; }
+
+.images_quote {
+  padding-left: 260px; }
